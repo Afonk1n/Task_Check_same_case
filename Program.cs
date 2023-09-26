@@ -26,7 +26,5 @@ namespace Check_same_case
             Console.WriteLine(characterComparison(a, b));
             Console.ReadLine();
         }
-
-
     }
 }
