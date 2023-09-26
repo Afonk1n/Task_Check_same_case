@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Check same case\bin\Debug\Check same case.exe.config
+C:\Users\mafon\source\repos\Check same case\bin\Debug\Check same case.exe
+C:\Users\mafon\source\repos\Check same case\bin\Debug\Check same case.pdb
+C:\Users\mafon\source\repos\Check same case\obj\Debug\Check same case.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Check same case\obj\Debug\Check same case.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Check same case\obj\Debug\Check same case.exe
+C:\Users\mafon\source\repos\Check same case\obj\Debug\Check same case.pdb
